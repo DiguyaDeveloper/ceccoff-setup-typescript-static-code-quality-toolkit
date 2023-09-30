@@ -1,0 +1,24 @@
+{
+  "name": "ceccoff-setup-typescript-best-practicies",
+  "version": "1.0.0",
+  "description": "how to start your project typescript + prettier + eslint + commitlint + lintstaged + githooks",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "test": "npm run test",
+    "postinstall": "husky install"
+  },
+  "keywords": [
+    "typescript",
+    "prettier",
+    "eslint",
+    "commitlint",
+    "lintstaged",
+    "githooks",
+    "husky",
+    "best",
+    "practicies"
+  ],
+  "author": "DiguyaDeveloper",
+  "license": "MIT"
+}
