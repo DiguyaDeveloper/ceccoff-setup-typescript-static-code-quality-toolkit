@@ -52,3 +52,9 @@ npm install eslint-config-prettier --save-dev
 ```shell
 npm init @eslint/config
 ```
+
+## Installing lint-staged
+
+```shell
+npm install lint-staged --save-dev
+```
