@@ -22,6 +22,8 @@
   "author": "DiguyaDeveloper",
   "license": "MIT",
   "devDependencies": {
+    "@commitlint/cli": "^17.7.2",
+    "@commitlint/config-conventional": "^17.7.0",
     "husky": "^8.0.0"
   }
 }
