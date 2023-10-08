@@ -1,6 +1,5 @@
 export function MyExampleFunction(): number {
-  let test = 0;
-  let test2 = 1;
+  const test = 0;
 
   return test;
 }
