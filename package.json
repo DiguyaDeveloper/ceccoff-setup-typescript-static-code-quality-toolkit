@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "how to start your project typescript + prettier + eslint + commitlint + lintstaged + githooks",
   "main": "index.ts",
+  "type": "module",
   "scripts": {
     "dev": "tsx watch src/server.ts",
-    "test": "npm run test",
+    "test": "node --loader tsx --test src/tests/*.spec.ts",
     "postinstall": "husky install"
   },
   "keywords": [
