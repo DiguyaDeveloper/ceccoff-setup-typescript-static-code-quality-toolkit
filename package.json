@@ -20,5 +20,8 @@
     "practicies"
   ],
   "author": "DiguyaDeveloper",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
 }
