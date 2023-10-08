@@ -37,3 +37,18 @@ chmod +x .husky/*
 ```shell
 npm i prettier --save-dev
 ```
+
+## Installing eslint
+
+```shell
+npm install eslint --save-dev
+npm install @typescript-eslint/parser --save-dev
+npm install @typescript-eslint/eslint-plugin --save-dev
+npm install eslint-config-prettier --save-dev
+```
+
+# Start eslint config
+
+```shell
+npm init @eslint/config
+```
