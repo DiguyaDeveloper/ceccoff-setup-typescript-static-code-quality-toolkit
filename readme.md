@@ -58,3 +58,16 @@ npm init @eslint/config
 ```shell
 npm install lint-staged --save-dev
 ```
+
+## Installing typescript dependencies
+
+```shell
+npm i typescript
+npm i @types/node tsx --save-dev
+```
+
+# Start typescript config
+
+```shell
+npx tsc --init
+```
