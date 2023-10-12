@@ -20,7 +20,7 @@
 
 <!-- Marque TODAS as caixas: -->
 
-- [ ] Li atentamente e entendi [Diretrizes de Contribuição](https://github.com/BeforeIDieCode/BeforeIDieAchievements/blob/main/CONTRIBUTION-GUIDELINES.md).
+- [ ] Li atentamente e entendi [Diretrizes de Contribuição](https://github.com/DiguyaDeveloper/ceccoff-setup-typescript-static-code-quality-toolkit/blob/main/contribution-guidelines.md).
 - [ ] O título deste PR segue o formato `palavra-chave: breve descrição da alteração`, usando uma das seguintes palavras-chave:
   - `Recurso` - adiciona um novo comportamento visível ao usuário ou altera o existente.
   - `Tarefa` - alterações que não têm valor visível para o usuário, como refatorações, atualizações de dependências, etc.
