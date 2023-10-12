@@ -1,6 +1,6 @@
 <div align="center">
   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Mão Escrevendo" width="25" height="25" />Diretrizes de Contribuição<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Guias de Marcadores" width="25" height="25" /></h1>
-  Esta documentação contém um conjunto de diretrizes para ajudar você no processo de contribuição a este projeto. Este projeto de código aberto foi construído usando o framework React e o servidor de desenvolvimento deve ser iniciado para visualizar o projeto em sua máquina local.
+  Esta documentação contém um conjunto de diretrizes para ajudar você no processo de contribuição a este projeto. Este projeto de código aberto foi construído usando o framework Angular e o servidor de desenvolvimento deve ser iniciado para visualizar o projeto em sua máquina local.
 </div>
 
 ---
